@@ -1,3 +1,4 @@
+![customer-segmentation](https://github.com/user-attachments/assets/f8e029f3-b75e-44d0-ba19-8f723292f8fe)
 # RFM-Customer-Segmentation-Analysis
 
 ## Project Overview
